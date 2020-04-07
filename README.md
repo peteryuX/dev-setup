@@ -4,6 +4,8 @@ My development environment setup
 # Linux
 
 ## General
+- `sudo apt update`
+- `sudo apt upgrade`
 - `sudo apt-get install ssh`
 - `sudo apt-get install vim`
 - `sudo apt-get install git`
@@ -46,7 +48,7 @@ My development environment setup
 - Copy [this](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) into `~/.vimrc`.
 
 ## Visual Studio
-
+- Download deb from https://code.visualstudio.com/.
 # MacOS
 
 ## Oh-my-zsh
