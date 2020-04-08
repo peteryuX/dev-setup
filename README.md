@@ -43,7 +43,6 @@ My development environment setup
   export PATH=/usr/local/cuda-7.5/bin:$PATH
   export LD_LIBRARY_PATH=/usr/local/cuda-7.5/lib64:$LD_LIBRARY_PATH
   ```
-
 ## Vim
 ### Normal
 - Copy [this](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) into `~/.vimrc`.
@@ -60,6 +59,11 @@ My development environment setup
 
 ## Visual Studio
 - Download deb from https://code.visualstudio.com/.
+
+## Docker
+- Install Docker 19.03 https://docs.docker.com/engine/install/ubuntu/
+- Test on the tensorflow 2.0 https://www.tensorflow.org/install/docker
+
 # MacOS
 
 ## Oh-my-zsh
