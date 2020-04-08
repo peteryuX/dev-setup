@@ -62,6 +62,7 @@ My development environment setup
 
 ## Docker
 - Install Docker 19.03 https://docs.docker.com/engine/install/ubuntu/
+- Run w/o sudo https://linoxide.com/linux-how-to/use-docker-without-sudo-ubuntu/
 - Test on the tensorflow 2.0 https://www.tensorflow.org/install/docker
 
 # MacOS
