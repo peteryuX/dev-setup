@@ -14,8 +14,8 @@ My development environment setup
 ## zsh
 
 - Install zsh, follow the reference [here](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
-- `sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-
+- Install Oh My ZSH `sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+- Otehrs from https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
 ## tmux
 
 - `sudo apt-get install tmux`
@@ -45,7 +45,18 @@ My development environment setup
   ```
 
 ## Vim
+### Normal
 - Copy [this](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) into `~/.vimrc`.
+### Vundle
+- Vundle https://blog.gtwang.org/linux/vundle-vim-bundle-plugin-manager/ 
+- `sudo apt-get install git curl`
+- `git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+### Python VIM
+- fisa-vim-confg https://aji.tw/vundle-vim-%E5%A4%96%E6%8E%9B%E7%AE%A1%E7%90%86%E5%A5%97%E4%BB%B6/
+- `sudo apt-get install curl vim exuberant-ctags git ack-grep`
+- `sudo pip install pep8 flake8 pyflakes isort yapf`
+- `mv ~/.vimrc ~/.vimrc.bak`
+- `wget https://raw.githubusercontent.com/amigcamel/fisa-vim-config/master/.vimrc -O ~/.vimrc`
 
 ## Visual Studio
 - Download deb from https://code.visualstudio.com/.
