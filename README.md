@@ -65,6 +65,10 @@ My development environment setup
 - `brew install tmux`
 - Install [tmux-config](https://github.com/tony/tmux-config).
 
+## TheFuck
+- sudo apt install python3-dev python3-pip python3-setuptools
+- sudo pip3 install thefuck
+
 ## Visual Studio
 
 ## Anaconda
