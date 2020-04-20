@@ -15,7 +15,8 @@ My development environment setup
 
 - Install zsh, follow the reference [here](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 - Install Oh My ZSH `sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-- Otehrs from https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
+- Note from https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
+- zsh syntax highlighting: https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
 ## tmux
 
 - `sudo apt-get install tmux`
