@@ -11,6 +11,9 @@ My development environment setup
 - `sudo apt-get install git`
 - `sudo apt-get install g++` (**required** to install CUDA)
 
+## terminal
+- https://draculatheme.com/gnome-terminal
+
 ## zsh
 
 - Install zsh, follow the reference [here](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
