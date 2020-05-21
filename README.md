@@ -62,7 +62,9 @@ My development environment setup
 - `wget https://raw.githubusercontent.com/amigcamel/fisa-vim-config/master/.vimrc -O ~/.vimrc`
 
 ## Visual Studio
-- Download deb from https://code.visualstudio.com/.
+- VSCode download deb from https://code.visualstudio.com/.
+- Intergrated Terminal Theme
+  - put https://glitchbone.github.io/vscode-base16-term/#/dracula in "workbench.colorCustomizations": {}.
 
 ## Docker
 - Install Docker 19.03 https://docs.docker.com/engine/install/ubuntu/
@@ -82,7 +84,6 @@ My development environment setup
 `brew install wget`
 
 ## tmux
-
 - `brew install tmux`
 - Install [tmux-config](https://github.com/tony/tmux-config).
 
@@ -90,7 +91,10 @@ My development environment setup
 - sudo apt install python3-dev python3-pip python3-setuptools
 - sudo pip3 install thefuck
 
-## Visual Studio
+## Visual Studio Code
+- Install VSCode 
+- Intergrated Terminal Theme
+  - put https://glitchbone.github.io/vscode-base16-term/#/dracula in "workbench.colorCustomizations": {}.
 
 ## Anaconda
 - Install miniconda 3.
