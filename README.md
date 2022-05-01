@@ -20,6 +20,7 @@ My development environment setup
 - Install Oh My ZSH `sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 - Note from https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
 - zsh syntax highlighting: https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
+- zsh autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
 - home/end key (in ~/.zshrc): 
 ```bash
 bindkey "\033[1~" beginning-of-line
